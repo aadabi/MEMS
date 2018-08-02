@@ -1,4 +1,8 @@
 # MEMS
+Microgrid Energy Managment System
+
+It is a protype of a system for managing the generation, Load and storage. 
+It allows system to run maximum amount of time delivering power to the cretical loads which for this demo is the communication channel router and one lamp. 
 
 Mems usage intructions:
 
