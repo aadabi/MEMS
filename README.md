@@ -26,6 +26,7 @@ System will optimize the loads
 
 * Solar panel can generate up to 250 Watts. 
 * The modified battery can run the system for up to 4-10 hours. 
+* Loads (Lamps) are controled by the raspberry pi PWM GPIOs
 
 ![MEMS Design](/MEMS.png)
 
