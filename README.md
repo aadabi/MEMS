@@ -1,4 +1,6 @@
 # MEMS
+For Tech Crunch 2018 Hackaton
+
 Microgrid Energy Managment System
 
 It is a protype of a system for managing the generation, load and storage. 
