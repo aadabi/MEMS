@@ -12,6 +12,6 @@ Mems usage intructions:
 
 System will optimize the loads
 
-Solar panel can generate up to 250 Watts. 
-The modified battery can run the system for up to 4-10 hours. 
+*Solar panel can generate up to 250 Watts. 
+*The modified battery can run the system for up to 4-10 hours. 
 
