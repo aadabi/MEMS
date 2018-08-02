@@ -1,5 +1,5 @@
 # MEMS
-For Tech Crunch 2018 Hackaton
+
 
 Microgrid Energy Managment System
 
@@ -28,3 +28,4 @@ System will optimize the loads
 
 ![MEMS Design](/MEMS.png)
 
+*For TechCrunch 2018 Hackaton*
