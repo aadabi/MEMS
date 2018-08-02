@@ -13,6 +13,7 @@ Needed:
 * eGauge
 * PWM enabled Relay
 * Raspberry Pi
+* Lamps
 
 
 Mems usage intructions:
